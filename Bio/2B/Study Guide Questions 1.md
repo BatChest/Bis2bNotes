@@ -64,7 +64,10 @@
 
 
 # (13) Explain the cause of the alternating latitudinal bands of high and low precipitation as one moves from the tropics (wet) to 30° (dry) to temperate latitudes (wet again) to polar latitudes (dry)? 
- - <mark style="background: #FFB8EBA6;">The air decreasing from the Hadley Cells at 30 degrees north/south is cool and dry.</mark> As that <mark style="background: #FFB8EBA6;">air goes towards the direction of the poles it begins to pick up moisture/warm air, so it rises.</mark> It will <mark style="background: #FFB8EBA6;">meet the cool/descending air from the polar cells(at the poles)</mark> but <mark style="background: #FFB8EBA6;">because it is colder, the air coming from the direction of the Hadley cells at the equator</mark> will rise above that air. As that <mark style="background: #FFB8EBA6;">warm air rises, it causes precipitation at around 50-60 degrees N/S</mark>. Hence, the <mark style="background: #FFB8EBA6;">forests that appear at 60 degrees</mark>. The <mark style="background: #FFB8EBA6;">cooling air from this goes to 90 degrees so that's what causes cold deserts there.</mark>
+- The Hadley Cells 
+- Equator has hot air or pressure rises and moves to the side, cooling off and then falling down again as low pressure where it falls down 30 degrees area
+- There being more air rising underneath so it's continuous cycle
+- Therefore there'll be lots of rain at the equator and at 30 degrees its a desert
 
 # (14) Contrast autotrophs and heterotrophs in terms of how they acquire energy and nutrients (carbon, nitrogen).
 - <mark style="background: #FF5582A6;">autotrophs</mark> <mark style="background: #FFB8EBA6;">obtain carbon through their stomata from the atmosphere and acquire energy from the sun using photosynthesis and nutrients from the ground like nitrogen and carbon. </mark>
@@ -209,11 +212,11 @@
 - <mark style="background: #FFB8EBA6;">Increasing CO2 concentrations would benefit C3 plants by increasing their rate of photosynthesis</mark> while <mark style="background: #FFB8EBA6;">C4 plants may not see the same or have an decrease in photosynthetic rate </mark>
 - The <mark style="background: #FFB8EBA6;">increased temperatures that come with burning fossil fuels can negatively affect both C3 and C4 plants</mark> 
 ## How does your answer change based on whether you consider (i) only the DIRECT effects of CO2 increase itself
-- <mark style="background: #FFB8EBA6;">C3 plants are expected to have a greater relative success</mark> compared to C4 plants <mark style="background: #FFB8EBA6;">due to their higher responsiveness to increased CO2 concertation </mark>
+- Direct effect of CO2 increase: C3 plants benefit more than C4 plants since C4 plants already take good enough CO2 as it is
 ## (ii) direct effects plus including the increased temperature due to CO2 increase
-- <mark style="background: #FFB8EBA6;">C4 plants may have a relative advantage over C3 plants due to their better tolerance of higher temperatures </mark>
+- Direct effect + Temp: C3 plants may lose efficiency since they would respire more (lose water) C4 plants are generally more resistant due to their structure of opening the stomata
 ## (iii) everything in (ii) plus the possible effect of increased temperatures on plant water stress?
-- <mark style="background: #FFB8EBA6;">T</mark><mark style="background: #FFB8EBA6;">his may further benefit C4 plants as they are better adapted to arid conditions and have more efficient water use strategies </mark>
+- Everything included (water stress etc): Could lead to water stress for both C3 and C4, however C4 are more resistant (as stated before) Therefore it would lose less water and be generally better than C3 plants since they can withstand more of the stress environment
 
 # (28) Compare the effect of temperature on photosynthesis of the C3 vs the C4 plant in the figure below (at right). Over which temperature range does the C3 plant have higher rates of net photosynthetic update than the C4 plant? At which temperatures does photosynthetic uptake by the C4 plant exceed that of the C3 plant? Explain the reasons for the changing relative success of C3 and C4 plants as temperature increases. What could you do (what manipulation could you make) to reduce the advantage that the “winner” has over the “loser” at high temperature?
 ![[Pasted image 20230423124804.png|600]]

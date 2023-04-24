@@ -201,6 +201,8 @@
 ## Think about how the Stomata opens to bring in co2, 
 - For C3 plants, colder environments it doesn't have to worry as much about losing water as there is always an abundance of water
 - C4 plants are from drier climates and waters more scarce so it's adapted to not keep stomata open as long using this enzyme PEP carboxylase to bring in Co2
+- C3 plants have their stomata opening longer because of the weak affinity for CO2
+- C4 on the other hand uses PEP carboxylase enzyme, which is more efficient at getting CO2
 
 # (28) How would you expect increasing CO2 and temperature affect the performance of C3 and C4 plants?
 - <mark style="background: #FFB8EBA6;">C3 plants are generally more efficient at photosynthesis at lower temperatures and lower light levels</mark>

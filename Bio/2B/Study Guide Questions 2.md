@@ -170,7 +170,7 @@ The four fundamental processes are:
 ## How is the population of turkeys changing in size over time?
 - The population is growing at a logistical way as it there is little growth in the beginning but then start to grow at a constant rate until it reaches a point where the growth stops due to high mortality 
 ## What type of survivorship curve would you say this species has?
-- It has a <mark style="background: #FFB8EBA6;">type 1 survivorship curves</mark> as the <mark style="background: #FFB8EBA6;">survival for infants are guaranteed to survive but as they grow older their mortality rates increases</mark>
+- It has a <mark style="background: #FFB8EBA6;">type 2 survivorship curves</mark> as the <mark style="background: #FFB8EBA6;">old adults were to be killed off it wouldn't change the fecundity meaning that the birth and death rates would be independent from age</mark>
 ## If you were hired as the wildlife biologist for the city and wanted to stabilize the population size (prevent extinction and prevent the population from increasing) what specific approach might you take with this population? Consider what specific age classes are most critical to focus your efforts on and what action you might take (alter survival vs. fecundity)
 - We can <mark style="background: #FFB8EBA6;">prevent the population from increasing and also prevent extinction by decreasing the survivorship of the the Adult class</mark> as they <mark style="background: #FFB8EBA6;">are producing the most offsprings compared to the other Age classes</mark>
 - Another method that we can do is <mark style="background: #FFB8EBA6;">give birth control to the Adult Class as they produce the most offsprings</mark> 

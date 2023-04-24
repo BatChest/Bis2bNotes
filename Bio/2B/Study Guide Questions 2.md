@@ -185,8 +185,9 @@ The four fundamental processes are:
 
 ### <mark style="background: #FF5582A6;">Density-independent</mark>
 - <mark style="background: #BBFABBA6;">Cold temperatures kill 80 percent of the insects in a particular area</mark>
-- <mark style="background: #BBFABBA6;">A contagious disease sweeps through a dense population</mark>
+
 ### <mark style="background: #FF5582A6;">Density-dependent</mark>
 - <mark style="background: #BBFABBA6;">Predators search widely for places where insects are abundant and concentrate their hunting in those areas</mark>
 - <mark style="background: #BBFABBA6;">A rapid increase in a population of insects leads to a depletion of the food supply. As a result, the insects are starving and produce few offspring.</mark>
 - <mark style="background: #BBFABBA6;">When insects are abundant, other predators switch from their preferred prey to a primary diet of insects</mark>
+- <mark style="background: #BBFABBA6;">A contagious disease sweeps through a dense population</mark>

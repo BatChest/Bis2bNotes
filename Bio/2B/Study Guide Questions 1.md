@@ -193,6 +193,10 @@
 
 ### <mark style="background: #FF5582A6;">Difference between the two:</mark> <mark style="background: #FFB8EBA6;">C3 plants are more widespread and dominate in temperature regions but the stoma stays open so it loses way too much water</mark>, while <mark style="background: #FFB8EBA6;">C4 plants are typically found in tropical and subtropical regions.</mark> <mark style="background: #FFB8EBA6;">C4 plants are well adapted to hot dry conditions</mark> and are often found in grasslands and savannas. <mark style="background: #FFB8EBA6;">C3 plants are more commonly found in forests and other mesic environments</mark>. <mark style="background: #FFB8EBA6;">C4 plants are generally more efficient at photosynthesis and can fix more carbon per unit of water used</mark>
 
+## Think about how the Stomata opens to bring in co2, 
+- For C3 plants, colder environments it doesn't have to worry as much about losing water as there is always an abundance of water
+- C4 plants are from drier climates and waters more scarce so it's adapted to not keep stomata open as long using this enzyme PEP carboxylase to bring in Co2
+
 # (28) How would you expect increasing CO2 and temperature affect the performance of C3 and C4 plants?
 - <mark style="background: #FFB8EBA6;">C3 plants are generally more efficient at photosynthesis at lower temperatures and lower light levels</mark>
 - At <mark style="background: #FFB8EBA6;">higher temperatures and higher CO2 levels their photosynthetic rates become limited by the enzymes available </mark>

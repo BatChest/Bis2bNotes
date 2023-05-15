@@ -38,15 +38,16 @@
 
 # 8)
 ## What is recombination and how does it work?  
- - <mark style="background: #FF5582A6;">Recombination</mark>: the process by which <mark style="background: #FFB8EBA6;">genetic material</mark> from two parental sources is <mark style="background: #FFB8EBA6;">combined to create new combinations of genes</mark> in offspring 
+ - <mark style="background: #FF5582A6;">Recombination</mark>: the process by which <mark style="background: #FFB8EBA6;">genetic material</mark> from two parental sources is <mark style="background: #FFB8EBA6;">combined to create new combinations of genes</mark> in offspring. <mark style="background: #FF5582A6;">It is always hetero</mark>
 	 - occurs <mark style="background: #FFB8EBA6;">during meiosis</mark>, where <mark style="background: #FFB8EBA6;">homologous chromosomes exchange segments of DNA</mark> through a <mark style="background: #FFB8EBA6;">process</mark> known as <mark style="background: #FFB8EBA6;">crossing-over</mark>
 	 - is the <mark style="background: #FFB8EBA6;">outcome of the crossing over</mark>. 
 ## Is it the same thing as crossing-over?
  - recombination refers to the overall process of genetic material exchange 
- - <mark style="background: #FF5582A6;">crossing-over</mark>: specifically <mark style="background: #FFB8EBA6;">describes the physical exchange of DNA</mark> segments <mark style="background: #FFB8EBA6;">between homologous chromosomes</mark>
-	 - Crossing over occurs when the alleles are homo or hetero, but <mark style="background: #FFB8EBA6;">there must be heterozygous alleles on each of the homologous chromosomes </mark>at a loci for recombination to occur 
+ - <mark style="background: #FF5582A6;">crossing-over</mark>: specifically <mark style="background: #FFB8EBA6;">describes the physical exchange of DNA</mark> segments <mark style="background: #FFB8EBA6;">between homologous chromosomes</mark> 
+ - <mark style="background: #FF5582A6;">can be homo or hetero</mark>
+	 - Crossing over occurs when the <mark style="background: #FF5582A6;">alleles are homo or hetero</mark>, but <mark style="background: #FFB8EBA6;">there <mark style="background: #FF5582A6;">must be heterozygous alleles</mark> on each of the homologous chromosomes </mark>at a loci for recombination to occur 
 ## If an organism practiced self-fertilization, could recombination occur?
- - If the organism <mark style="background: #FF5582A6;">is heterozygous for a gene then yes</mark> recombination can occur if an organism practiced self-fertilization
+ - If the organism <mark style="background: #FF5582A6;">is heterozygous for a gene then yes</mark> <mark style="background: #FF5582A6;">recombination can occur</mark> if an organism practiced self-fertilization
 ## If an organism practiced self-fertilization, would all of its offspring be genetically identical? Why/why not?
  - <mark style="background: #FF5582A6;">No</mark>, because <mark style="background: #FF5582A6;">if they are heterozygous for a certain gene</mark> then <mark style="background: #FF5582A6;">recombination can occur and the offspring can be different</mark> 
 
@@ -133,7 +134,8 @@
 
 # 20) Some more terms you should know (or be able to compare):
 ## <mark style="background: #FFB8EBA6;">Haploid vs. diploid</mark>
-- Having 1 set of chromosomes vs having 2  
+- <mark style="background: #FF5582A6;">haploid:</mark> Having 1 set of chromosomes vs 
+- <mark style="background: #FF5582A6;">diploid</mark>: having 2 set of chromosomes
 - Abc = diploid(n) 
 - AaBbCc = haploid(2n)
 ## <mark style="background: #FFB8EBA6;">Homologous vs. non-homologous chromosome</mark>
